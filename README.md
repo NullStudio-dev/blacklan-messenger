@@ -3,7 +3,7 @@
 
 > Message from Dev
 
-- This Project made by a 19-year-old developer who loves to code and create useful tools hope anyone help me upgrade this project with new features and ideas.
+- This Project made by a 19-year-old developer who loves to code for no reaone hope anyone help me upgrade this project with new features and ideas.
 - Join my discord server for support and updates: [![NullStudio](https://img.shields.io/badge/nullstudio-join-blue.svg?logo=discord)](https://discord.gg/aFvUxKejw4) i'll apreciate your support and feedback!
 
 ## Table of Contents
